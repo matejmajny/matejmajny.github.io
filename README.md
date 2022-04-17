@@ -8,3 +8,4 @@ Plans for future:
 2. Update design (maybe, not sure)
 3. Update some things how website works (if i will have time)
              
+It does have phone version but its weird btw
