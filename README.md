@@ -8,4 +8,5 @@ Plans for future:
 2. Update design (maybe, not sure)
 3. Update some things how website works (if i will have time)
              
-It does have phone version but its weird btw
+Well i made new website with Brizy (or better, [Raymond](https://github.com/raymond-1227) did) Btw this website will continue working
+New web on: https://matejmajny.tk
